@@ -1,0 +1,128 @@
+.widget-area .widget_somc_andreasonny_widget {
+	padding: 0;
+	margin: 0;
+	font-family: "Helvetica neue","Helvetica",Arial,Tahoma,Verdana,sans-serif;
+	color: #444;
+	background: #ededed;
+	background: -moz-linear-gradient(top, #ededed 0%, #f4f4f4 45%, #e2e2e2 99%, #c1c1c1 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ededed), color-stop(45%, #f4f4f4), color-stop(99%, #e2e2e2), color-stop(100%, #c1c1c1));
+	background: -webkit-linear-gradient(top, #ededed 0%, #f4f4f4 45%, #e2e2e2 99%, #c1c1c1 100%);
+	background: -o-linear-gradient(top, #ededed 0%, #f4f4f4 45%, #e2e2e2 99%, #c1c1c1 100%);
+	background: -ms-linear-gradient(top, #ededed 0%, #f4f4f4 45%, #e2e2e2 99%, #c1c1c1 100%);
+	background: linear-gradient(to bottom, #ededed 0%,#f4f4f4 45%,#e2e2e2 99%,#c1c1c1 100%);
+	-webkit-box-shadow: 5px 1px 4px rgba(0,0,0,0.1);
+	-moz-box-shadow: 5px 1px 4px rgba(0,0,0,0.1);
+	box-shadow: 5px 1px 4px rgba(0,0,0,0.1);
+}
+.widget-area .widget_somc_andreasonny_widget h3 {
+	margin: 0!important;
+	text-align: center;
+	background-color: #3a3a3a;
+	background-image: -webkit-linear-gradient(top, #3a3a3a 0%,#333 5%,#2b2b2b 15%,#161616 51%,#131313 100%);
+	background-image: -moz-linear-gradient(top, #3a3a3a 0%,#333 5%,#2b2b2b 15%,#161616 51%,#131313 100%);
+	background-image: -ms-linear-gradient(top, #3a3a3a 0%,#333 5%,#2b2b2b 15%,#161616 51%,#131313 100%);
+	background-image: -o-linear-gradient(top, #3a3a3a 0%,#333 5%,#2b2b2b 15%,#161616 51%,#131313 100%);
+	background-image: linear-gradient(top, #3a3a3a 0%,#333 5%,#2b2b2b 15%,#161616 51%,#131313 100%);
+	-webkit-box-shadow: 0 0 10px rgba(0,0,0,0.2);
+	-moz-box-shadow: 0 0 10px rgba(0,0,0,0.2);
+	box-shadow: 0 0 10px rgba(0,0,0,0.2);
+	padding: 16px 15px;
+	font-family: inherit;
+	color: #d1d1d1;
+	font-size: 14px;
+	letter-spacing: 0.4px;
+}
+.widget-area .widget_somc_andreasonny_widget > ul {
+	padding-top: 0;
+	padding-bottom: 25px;
+	padding-left: 0;
+	padding-right: 0;
+	background: #000;
+}
+.widget-area .widget_somc_andreasonny_widget > ul > li {
+	border-top: 1px solid #222;
+}
+.widget-area .widget_somc_andreasonny_widget > ul li:hover {
+	background: #222;
+}
+.widget-area .widget_somc_andreasonny_widget > ul a {
+	display: block;
+	text-align: left;
+	padding: 0 15px;
+	text-decoration: none;
+	font-family: inherit;
+	color: rgb(241, 241, 241)!important;
+	font-size: 13px;
+	line-height: 36px;
+}
+.widget-area .widget_somc_andreasonny_widget > ul a:visited {
+	color: rgb(241, 241, 241)!important;
+}
+.widget-area .widget_somc_andreasonny_widget > ul .children > a:after {
+	background-image: url(http://www.sonymobile.com/gb/wp-content/themes/semc-main/img/sprite-global-7e42b0f77322151bd25bea2971e4ba17.png);
+	background-position: -84px 4px;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-color: transparent;
+	content: "";
+	border: 0;
+	padding: 0;
+	margin: 0;
+	height: 13px;
+	width: 12px;
+	display: inline-block;
+	margin-left: 8px;
+}
+.widget-area .widget_somc_andreasonny_widget > ul .children > ul {
+	display: none;
+}
+.widget-area .widget_somc_andreasonny_widget > .somc-andreasonny-subpages {
+	display: none;
+}
+.widget-area .widget_somc_andreasonny_widget > .somc-andreasonny-subpages.enabled {
+	display: block;
+}
+.widget-area .widget_somc_andreasonny_widget > ul .active ul {
+	margin: 0;
+	border-bottom: 1px solid #222;
+	background: #222;
+}
+.widget-area .widget_somc_andreasonny_widget > ul .active li {
+	padding-left: 5px;
+}
+.widget-area .widget_somc_andreasonny_widget > ul .active li:hover {
+	background: #000;
+}
+.widget-area .widget_somc_andreasonny_widget > ul .children.active > ul {
+	display: block;
+}
+.widget-area .widget_somc_andreasonny_widget a.sort_order {
+	background-color: #111;
+	background-color: #3a3a3a;
+	background-image: -webkit-linear-gradient(top, #3a3a3a 0%,#333 5%,#2b2b2b 15%,#161616 51%,#131313 100%);
+	background-image: -moz-linear-gradient(top, #3a3a3a 0%,#333 5%,#2b2b2b 15%,#161616 51%,#131313 100%);
+	background-image: -ms-linear-gradient(top, #3a3a3a 0%,#333 5%,#2b2b2b 15%,#161616 51%,#131313 100%);
+	background-image: -o-linear-gradient(top, #3a3a3a 0%,#333 5%,#2b2b2b 15%,#161616 51%,#131313 100%);
+	background-image: linear-gradient(top, #3a3a3a 0%,#333 5%,#2b2b2b 15%,#161616 51%,#131313 100%);
+	display: block;
+	text-align: right;
+	padding-right: 10px;
+	line-height: 24px;
+	font-size: 12px;
+	text-decoration: none;
+	color: rgb(241, 241, 241)!important;
+}
+.widget-area .widget_somc_andreasonny_widget li.empty {
+	display: block;
+	text-align: center;
+	line-height: 24px;
+	font-size: 14px;
+	color: rgb(241, 241, 241)!important;
+}
+
+.post a.sort_order, .page a.sort_order {
+	display: none;
+}
+.post .somc-andreasonny-subpages.desc, .page .somc-andreasonny-subpages.desc {
+	display: none;
+}
